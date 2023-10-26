@@ -4,9 +4,12 @@
 
 :books: Tenho estudado e trabalhado em projetos com NextJs, Typescript e TailwindCss.
 
-![Thallys's GitHub stats](https://github-readme-stats.vercel.app/api?username=thallyslemos&show_icons=true&theme=radicala&count_private=true&include_all_commits=true&hide=contribs )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thallyslemos&layout=compact)](https://github.com/thallyslemos/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/Fabio-Froes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thallyslemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallyslemos&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
